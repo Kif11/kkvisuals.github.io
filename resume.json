@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Kirill Kovalevskiy",
+    "label": "Python Developer",
+    "picture": "",
+    "email": "kovalewskiy@gmail.com",
+    "phone": "(831) 824-4060",
+    "website": "http://kkvisuals.com",
+    "summary": "Extensive knowledge of computer graphics, post-production pipeline and systems. Proficient in Python, JavaScript and C++ due to building robust products and tools for modern visual effects production.",
+    "location": {
+      "address": "129 Duboce ave",
+      "postalCode": "94103",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kirill Kovalevskiy",
+        "url": "https://www.linkedin.com/in/kkvisuals"
+      },
+      {
+        "network": "CofoundersLab",
+        "username": "Kirill Kovalevskiy",
+        "url": "http://cofounderslab.com/profile/engineering-kirill-kovalevskiy-san-francisco-kgomko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Evil Eye Pictures",
+      "position": "Pipeline Engineer",
+      "website": "https://www.evileyepictures.com",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Python developer in video post production studio foucused on feature films comercials and virtual reality projects.",
+      "highlights": [
+         "Integrated Shotgun base post production pipeline",
+         "Created PyQT and command line applications",
+         "Developed production Python and Bash tools",
+         "Automated management of  render cluster",
+         "Made Houdini fluid and Pyro simulations"
+      ]
+    },
+    {
+      "company": "Royal Render",
+      "position": "Python Developer",
+      "website": "http://www.royalrender.de",
+      "startDate": "2015-10-01",
+      "endDate": "2017-01-01",
+      "summary": "Worked as Python engineer for render farm menager software company.",
+      "highlights": [
+         "Developed Python scripts and tools",
+         "Customers and production support"
+      ]
+    },
+    {
+      "company": "StudioX",
+      "position": "Pipeline Technical Director",
+      "website": "",
+      "startDate": "2014-06-02",
+      "endDate": "2016-02-15",
+      "summary": "Worked on production of number of feature and short films.",
+      "highlights": [
+         "Developed Python scripts and tools",
+         "Customers and production support"
+      ]
+    }
+
+  ],
+
+  "projects": [
+    {
+      "name": "La Noria",
+      "type": "Animated short",
+      "website": "",
+      "highlights": [
+        "Build pipeline Python tools",
+        "Created Rigid body simulations"
+      ]
+    }
+  ],
+
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
